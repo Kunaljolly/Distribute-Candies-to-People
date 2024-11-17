@@ -38,4 +38,5 @@ On the fourth turn, ans[0] += 4, and the final array is [5,2,3].
 Constraints:
 
 1 <= candies <= 10^9
+
 1 <= num_people <= 1000
